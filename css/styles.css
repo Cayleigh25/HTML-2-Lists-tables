@@ -1,0 +1,39 @@
+h1{
+    color:red;
+    border:5px solid brown ;
+    border-radius:20px;
+
+}
+h2{
+    color:green;
+    border:3px dotted orange;
+    border-radius:20px;
+
+}
+th{color:blue;
+    border-radius:20px;
+}
+p{color:orange;
+    border:4px aqua;
+    border-radius:20px;
+
+}
+ol{color:gray;
+    border: 2px;
+    border-radius:20px;
+
+}
+b{color:purple;
+    border-radius:20px;
+
+}
+body{background-color: antiquewhite;
+border-radius:20px;
+}
+ul,ol{border: 2px dashed  black;
+    border-radius:20px;
+
+}
+
+
+
